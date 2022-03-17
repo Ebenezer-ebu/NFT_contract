@@ -1,0 +1,20 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "ERC20 tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ebenezer Ifezulike",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "dotenv": "^16.0.0",
+    "truffle": "^5.5.4"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.23"
+  }
+}

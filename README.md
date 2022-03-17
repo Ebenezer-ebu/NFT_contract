@@ -10,6 +10,9 @@ https://rinkeby.etherscan.io/address/0x9bB9131C62C1769CE734Cf004Bf74A7DF67Ff933#
 
 ## Metadata Structure
 ```
+https://ipfs.io/ipfs/QmXgguJ1hsPqcqfbnQkNLfMUSJBnfkayDhkavcanog5NcS
+```
+```
 {
   "name": "NFT Art",
   "image": "https://ipfs.io/ipfs/QmRQZ4cUjVkrwL9PLoXbqdXe5B2G3rXA7v2rsEEwZTDxnZ",
